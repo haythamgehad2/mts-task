@@ -1,0 +1,12 @@
+{
+    "name": "hgehad/task",
+    "type": "mts-task",
+    "autoload": {
+        "psr-4": {
+            "Hgehad\\Task\\": "src/"
+        }
+    },
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.29"
+    }
+}
